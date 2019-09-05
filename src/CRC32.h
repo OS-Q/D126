@@ -62,3 +62,4 @@ private:
     uint32_t _state = ~0L;
 
 };
+#endif
